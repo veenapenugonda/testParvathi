@@ -1,0 +1,18 @@
+{
+  "Toys": [
+    "unicorn",
+    "pony",
+    "sukku"
+  ],
+  "test": "test1",
+  "City": [
+    {
+      "testn": "a",
+      "testn1": "b"
+    },
+    {
+      "neew": "a1",
+      "neew1": "a2"
+    }
+  ]
+}
